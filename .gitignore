@@ -1,0 +1,27 @@
+# Eclipse / STM32CubeIDE workspace metadata
+.metadata/
+
+# Build intermediate artifacts
+*.o
+*.d
+*.su
+*.crf
+*.pbi
+*.pbd
+
+# Proteus temporary and local workspace files
+*.pdsbak
+*.workspace
+
+# OS and IDE temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+
+# Report sources and large PDFs in root (can be committed explicitly if desired)
+HCMUT_Report_Template__3_/
+*.zip
+*.pdf
